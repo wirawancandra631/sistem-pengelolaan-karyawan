@@ -1,5 +1,6 @@
 # sistem-pengelolaan-karyawan
 
+<img src="desc/demo-page.png">
 An Electron application with React
 
 ## Recommended IDE Setup
